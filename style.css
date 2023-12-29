@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.video__content{
+    width: 100%;
+    height: auto;
+    align-items: center;
+}
+body {
+
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+}
+
+.video__content {
+    text-align: center;
+}
+video {
+    max-width: 100%;
+    height: auto;
+}
+h1,h2{
+    text-align: center;
+}
