@@ -8,12 +8,10 @@ body{
     align-items: center;
 }
 body {
-
     align-items: center;
     justify-content: center;
     margin: 0;
 }
-
 .video__content {
     text-align: center;
 }
@@ -23,4 +21,7 @@ video {
 }
 h1,h2{
     text-align: center;
+}
+img{
+width: 100%;
 }
